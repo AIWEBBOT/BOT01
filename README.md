@@ -1,2 +1,2 @@
 # BOT01
-Can easily compose new bots by simply connecting them
+Can easily integrate new bots by simply connecting them
